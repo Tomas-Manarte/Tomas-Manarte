@@ -1,7 +1,7 @@
 ### Hi, I'm Tomás 👋
 
-Research Assistant @ **ISTAR-Iscte** · BSc in Software & Application Development · MSc in Cybersecurity & Resilience — *Iscte, University Institute of Lisbon*
-
+MSc in Cybersecurity & Resilience — *Iscte, University Institute of Lisbon*
+· BSc in Software & Application Development · Research Assistant @ **ISTAR-Iscte** 
 🚑 Currently building **Pró-Vida** — a digital platform for the intelligent dispatch of community first responders and the management of AED networks in out-of-hospital cardiac arrest.
 
 **Interests**
